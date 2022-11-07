@@ -4,6 +4,10 @@
 CHANGE WITH DATA, 2022 오픈데이터포럼 해커톤 - 한국지능정보사회진흥원장상(최우수상)
 <br></br>
 
+## 🛠 Used technology
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" width="20%" >
+<br></br>
+
 ## 💡 Introduction
 ![슬라이드4](https://user-images.githubusercontent.com/92364973/200227983-8f91eb42-fd62-4584-b808-0d267c82f156.PNG)
 ![슬라이드5](https://user-images.githubusercontent.com/92364973/200227991-64375ee0-48c5-4557-aa41-b1b2b1f8cae7.PNG)
